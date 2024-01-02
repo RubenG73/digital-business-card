@@ -1,7 +1,7 @@
 import './App.css'
 import About from './components/About'
 import Interests from './components/Interests'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 import Info from './components/info'
 
 function App() {
