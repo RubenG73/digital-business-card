@@ -85,6 +85,8 @@
   display: flex;
   justify-content: center;
   gap: 2em;
+  border-end-end-radius: 10px;
+  border-end-start-radius: 10px;
 }
 
 .app-container {
